@@ -15,8 +15,8 @@ To use the Sneaker Shop app, simply launch the app to view the latest sneaker ar
 To install the APK from Visual Studio, first ensure that your device is connected and recognized by the IDE. Open your Flutter project in Visual Studio, and use the "Run" button or `flutter run` command in the terminal to build and deploy the APK to your connected device. If you have a release APK, you can manually install it by navigating to `build/app/outputs/flutter-apk` and running the APK file on your device. Follow the on-screen instructions to complete the installation.
 
 # Screenshots
-![5868595583739085193](https://github.com/user-attachments/assets/2ceb2ff8-b48c-474c-acbb-a74d0bde34ab)
-![5868595583739085192](https://github.com/user-attachments/assets/461c8cf8-ac1b-4820-bb3c-901c56812ed2)
 ![5868595583739085191](https://github.com/user-attachments/assets/6f85b8e1-779a-43b6-99b6-e8ce3c6c2f55)
 ![5868595583739085190](https://github.com/user-attachments/assets/51960fb3-c82a-49c5-8f47-624144bc9e00)
+![5868595583739085192](https://github.com/user-attachments/assets/461c8cf8-ac1b-4820-bb3c-901c56812ed2)
+![5868595583739085193](https://github.com/user-attachments/assets/2ceb2ff8-b48c-474c-acbb-a74d0bde34ab)
 
